@@ -17,3 +17,14 @@ eda-of-bookings-and-ml-to-predict-cancelations/.ipynb_checkpoints/hotel-booking-
 eda-of-bookings-and-ml-to-predict-cancelations/data/hotel_bookings.csv
 eda-of-bookings-and-ml-to-predict-cancelations/data/hotel_bookings.csv.zip
 eda-of-bookings-and-ml-to-predict-cancelations/reference/eda-of-bookings-and-ml-to-predict-cancelations.ipynb
+Bike Sharing Demand/.ipynb_checkpoints/EDA & Ensemble Model (Top 10 Percentile)-checkpoint.ipynb
+Bike Sharing Demand/data/.ipynb_checkpoints/eda-ensemble-model-top-10-percentile-checkpoint.ipynb
+Bike Sharing Demand/data/bike_predictions_gbm_separate_without_fe.csv
+Bike Sharing Demand/data/eda-ensemble-model-top-10-percentile.ipynb
+Bike Sharing Demand/data/sampleSubmission.csv
+Bike Sharing Demand/data/test.csv
+Bike Sharing Demand/data/train.csv
+Hotel booking demand/data/hotel_bookings.csv
+Hotel booking demand/data/hotel_bookings.csv.zip
+Hotel booking demand/reference/eda-of-bookings-and-ml-to-predict-cancelations.ipynb
+Hotel booking demand/.ipynb_checkpoints/hotel-booking-demand-checkpoint.ipynb
