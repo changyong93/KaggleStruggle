@@ -28,3 +28,13 @@ Hotel booking demand/data/hotel_bookings.csv
 Hotel booking demand/data/hotel_bookings.csv.zip
 Hotel booking demand/reference/eda-of-bookings-and-ml-to-predict-cancelations.ipynb
 Hotel booking demand/.ipynb_checkpoints/hotel-booking-demand-checkpoint.ipynb
+*.txt
+Huge Stock Market Dataset/data/deep-reinforcement-learning-on-stock-data.ipynb
+Huge Stock Market Dataset/data/archive.zip
+House Prices - Advanced Regression Techniques/data/train.csv
+House Prices - Advanced Regression Techniques/data/test.csv
+House Prices - Advanced Regression Techniques/data/sample_submission.csv
+House Prices - Advanced Regression Techniques/data/house-prices-advanced-regression-techniques.zip
+House Prices - Advanced Regression Techniques/data/comprehensive-data-exploration-with-python.ipynb
+House Prices - Advanced Regression Techniques/data/.ipynb_checkpoints/comprehensive-data-exploration-with-python-checkpoint.ipynb
+House Prices - Advanced Regression Techniques/.ipynb_checkpoints/COMPREHENSIVE DATA EXPLORATION WITH PYTHON-checkpoint.ipynb
